@@ -182,9 +182,10 @@ h3 {
 
 .raised-fund {
     color: white;
-    margin: 5px 15px;
+    margin: 5px 60px;
+    margin-right: 100px;
     padding: 100px 10px;
-
+    text-align: justify;
 }
 
 .raised-fund p {
